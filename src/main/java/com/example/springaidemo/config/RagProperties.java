@@ -11,7 +11,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 public class RagProperties {
 
     /**
-     * 是否启用 RAG。
+     * 是否启用 RAG。。。。。
      */
     private boolean enabled = true;
 
