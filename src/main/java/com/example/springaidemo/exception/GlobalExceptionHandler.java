@@ -24,7 +24,7 @@ import java.util.stream.Collectors;
 public class GlobalExceptionHandler {
 
     /**
-     * 处理请求体字段校验失败异常。
+     * 处理请求体字段校验失败异常。ss
      *
      * @param ex 字段校验异常
      * @return 标准错误响应
