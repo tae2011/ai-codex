@@ -36,7 +36,7 @@ public class RagProperties {
     private int chunkSize = 800;
 
     /**
-     * 相邻切片重叠字符数。
+     * 相邻切片重叠字符数。.
      */
     private int chunkOverlap = 120;
 
